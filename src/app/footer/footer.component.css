@@ -1,0 +1,18 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #242838de;
+    color: #a1e2ed;
+    font-family: fantasy;
+ }
+
+ .col-md-6{
+     padding-top: 35px;
+ }
+
+ .list-unstyled a {
+    text-decoration: none;
+    font-size: 20px;
+}

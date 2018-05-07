@@ -1,0 +1,9 @@
+.loginpanel {
+    padding-top: 132px;
+}
+
+.loginpanel form {
+    padding: 20px 20px 20px 20px;
+    box-shadow: 7px 7px 20px #669dd4de;
+    border-radius: 6px 6px 6px 6px;
+}

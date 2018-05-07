@@ -1,0 +1,31 @@
+.navbar {
+    margin-bottom:0px;
+    border: 0px solid transparent;
+    border-radius: 0px;
+    background-color: #0a57ca;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    padding: 0px 15px;
+}
+
+.container-fluid {
+    box-shadow: 0px 3px 20px 0px #2c6361;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+ background-color: #073579
+}
+
+.navbar-inverse .navbar-nav>a:focus{
+    background-color: #062d68
+}
+
+.navbar-inverse .navbar-nav>a:hover{
+    background-color: #01193d
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
